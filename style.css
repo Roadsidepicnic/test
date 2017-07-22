@@ -7,7 +7,7 @@ body > header > nav > ul {
       justify-content: space-around;
 }
 .list{
-  border: 2px dotted yellow;
+  border: 2px dotted blue;
   padding: 5px;
   background: pink;
 }
