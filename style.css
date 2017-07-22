@@ -1,0 +1,16 @@
+body {
+  background: lightblue;
+}
+
+body > header > nav > ul {
+  display: flex;
+      justify-content: space-around;
+}
+.list{
+  border: 2px dotted yellow;
+  padding: 5px;
+  background: pink;
+}
+article {
+  align-items: center;
+}
